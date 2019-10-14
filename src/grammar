@@ -1,0 +1,4 @@
+
+
+programm := term
+term := lambda_decl | apply | var_decl
